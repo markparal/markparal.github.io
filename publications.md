@@ -13,11 +13,11 @@ _Journal of Applied Physics_
 **Thomas A. Hafner**, **Metin Örnek**, **Diane N. Collard**, **Mark W. Paral** and **Steven F. Son**  
 _Journal of Applied Physics_
 
-### [The Effect of Porosity on Flexoelectricity in Fluoropolymer/Aluminum Films](assets\publications\The_Effect_of_Porosity_on_Flexoelectricity_in_Flouropolymer_Aluminum_Films.pdf)
+### [The Effect of Porosity on Flexoelectricity in Fluoropolymer/Aluminum Films]({{ '/assets/publications/The_Effect_of_Porosity_on_Flexoelectricity_in_Flouropolymer_Aluminum_Films.pdf' | relative_url }})
 **Thomas A. Hafner**, **Metin Örnek**, **Diane N. Collard**, **Derek K. Messer**, **Cohen T. Nunes**, **Mark W. Paral** and **Steven F. Son**  
 _13th U.S. National Combustion Meeting Organized by the Central States Section of the Combustion Institute_
 
 ## 2022
-### [Piezo-Energetic Composite Film Fabrication and Poling Process for Pressure Sensor Applications](assets\publications\Piezo-Energetic_composite_film_fabrication_and_poling_process_for_pressure_sensor_applications.pdf)
+### [Piezo-Energetic Composite Film Fabrication and Poling Process for Pressure Sensor Applications]({{ '/assets/publications/Piezo-Energetic_composite_film_fabrication_and_poling_process_for_pressure_sensor_applications.pdf' | relative_url }})
 **Derek K. Messer**, **Thomas A. Hafner**, **Metin Örnek**, **Mark W. Paral** and **Steven F. Son**  
 _45th International Pyrotechnics Society Seminar_
