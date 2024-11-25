@@ -1,6 +1,6 @@
 ---
-layout: project
+layout: default
 title: "Project Title"
-date: YYYY-MM-DD
+date: 2024-11-25
 ---
 Description of the project in markdown.

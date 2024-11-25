@@ -2,7 +2,8 @@
 layout: default
 title: Home
 ---
-# My Projects
-{% for project in site.projects %}
-- [{{ project.title }}]({{ project.url }})
-{% endfor %}
+# Thanks for stopping by!
+
+Feel free to check out my projects and reach out if you want to connect!
+
+

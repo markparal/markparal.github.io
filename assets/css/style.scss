@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* General Styles for Navigation Bar */
+.navbar {
+    display: flex;
+    justify-content: flex-start; /* Align items to the left */
+    // background-color: #f8f9fa; /* Light gray background */
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd; /* Subtle border for separation */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .navbar-links {
+    list-style: none; /* Remove bullet points */
+    display: flex;
+    gap: 20px; /* Space between links */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-links li {
+    margin: 0; /* Remove default margins */
+  }
+  
+  .navbar-links a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Dark text color */
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase; /* Optional: Capitalize links */
+    padding: 5px 10px; /* Add padding for clickable area */
+  }
+  
+  .navbar-links a:hover {
+    color: #900018; /* Change text color on hover */
+    background-color: #e9ecef; /* Light background on hover */
+    border-radius: 5px; /* Rounded corners for hover effect */
+  }
