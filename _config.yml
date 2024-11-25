@@ -2,6 +2,7 @@ remote_theme: pages-themes/tactile@v0.2.0 #pages-themes/midnight@v0.2.0 #pages-t
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Mark Paral]
+baseurl: "/markparal.github.io"
 description: []
 collections:
   projects:
@@ -12,3 +13,7 @@ collections:
     output: true
     permalink: /publications/:title/
     directory: _publications
+  about:
+    output: true
+    permalink: /about/
+    directory: _about
