@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+permalink: /publications/
 ---
 ## 2024
 ### [Characterization and Calibration of a Piezo-Energetic Composite Film as a Reactive Gauge](https://pubs.aip.org/aip/jap/article/135/14/144902/3282311/Characterization-and-calibration-of-a-piezo)

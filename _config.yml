@@ -3,17 +3,11 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Mark Paral
 baseurl: ""
-description: []
+description:
 collections:
   projects:
     output: true
     permalink: /projects/:title/
-    directory: _projects
   publications:
     output: true
     permalink: /publications/:title/
-    directory: _publications
-  about:
-    output: true
-    permalink: /about/
-    directory: _about
