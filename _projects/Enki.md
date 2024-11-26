@@ -23,6 +23,7 @@ Additionally, Enki took full advantage of my 3D printing capabilities as I desig
     <iframe width="500" height="300" src="https://www.youtube.com/embed/P9p0QILYsIM" title="Enki Launch 04/02/22" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
+
 # Building and Fiberglass
 ---
 <div style="text-align: center;">
@@ -33,7 +34,7 @@ To improve the structural integrity following the first flight of enki, I fiberg
 # Launch Recording Assembly
 ---
 <div style="text-align: center;">
-    <img src="{{ 'assets/images/enki/Camera Setup.JPG' | relative_url }}" alt="camera" style="width:50%; border-radius:10px;">
+    <img src="{{ 'assets/images/enki/Camera_Setup.jpg' | relative_url }}" alt="camera" style="width:50%; border-radius:10px;">
 </div>
 In addition to the actual rocket, I developed a camera setup using a Raspberry Pi 3A and Raspberry Pi Camera Modules to record the flight. The main struggle with this part of the project was if power was lost to the Raspberry Pi, the video would be corrupted. I was able to work around this in the software by writing a script which recorded the video in 2 minute intervals. Post launch, I was able to parse these videos together and get the full launch video!
 
