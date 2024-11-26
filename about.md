@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-# My name is Mark Paral
+# Hi! I'm Mark!
 <br>
 <img src="/assets/images/overlook.jpg" alt="Overlook Image" style="width:700px; height:450px; object-fit:cover; border-radius:10px;">
 
