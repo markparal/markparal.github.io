@@ -10,7 +10,7 @@ During the fall of 2020, I took the class AAE 251: Introduction to Aerospace Des
 
 More information on the mission can be found [here](https://spaceflightnow.com/2020/04/20/nasa-narrows-design-for-rocket-to-launch-samples-off-of-mars/)
 
-<img src="{{ 'assets\images\MAV\cross section pic.png' | relative_url }}" alt="CrossSection" style="width:70%; border-radius:10px;">
+<img src="{{ 'assets/images/MAV/cross section pic.png' | relative_url }}" alt="CrossSection" style="width:70%; border-radius:10px;">
 
 Our project evaluated multiple motor configurations using different propellant types. The final design used the ALITEC solid rocket propellant developed by Adranos Inc. It also used a two stage configuration powered by a Star 17A first stage and a Star 12GV second stage, which are both products of Northrop Grumman. The complete project report can be viewed below. This report secured my team the distinction as the winners of the Purdue AAE 251 Northrop Grumman Rocket Design Contest.
 
