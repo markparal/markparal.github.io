@@ -29,6 +29,8 @@ _13th U.S. National Combustion Meeting Organized by the Central States Section o
 **Derek K. Messer**, **Thomas A. Hafner**, **Metin Örnek**, **Mark W. Paral** and **Steven F. Son**  
 _45th International Pyrotechnics Society Seminar_
 
+<br>
+
 # Articles
 ---
 ### [How'd You Land That?! (Part 2)](https://www.theoverview.org/p/howd-you-land-that-part-2)
@@ -38,6 +40,8 @@ _The Overview Newsletter_
 ### [How'd You Land That?! (Part 1)](https://www.theoverview.org/p/howd-you-land-that-part-1)
 **Mark Paral**
 _The Overview Newsletter_
+
+<br>
 
 # Podcasts
 ---

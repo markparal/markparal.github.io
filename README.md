@@ -36,3 +36,4 @@ Use [this](https://www.markdownguide.org/basic-syntax/) helpful guide for Markdo
 - Beautify splash page
 - Add Google Analytics?
 - Something about MIFP?
+- Update Resume
