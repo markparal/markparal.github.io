@@ -11,3 +11,5 @@ I am a masters student at Stanford studying Aeronautics and Astronautics focusin
 
 
 ### [markwparal@gmail.com](markwparal@gmail.com)
+### [LinkedIn](https://www.linkedin.com/in/mark-paral)
+### [Google Scholar](https://scholar.google.com/citations?hl=en&user=uE5ubPYAAAAJ)
