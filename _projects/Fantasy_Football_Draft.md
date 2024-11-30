@@ -4,4 +4,6 @@ title: "Fantasy Football Drafting Tool"
 date: 2024-08-25
 description: Drafting my fantasy football team using convex optimization
 ---
-Under Construction
+This project will be updated soon, stayed tune!
+
+[GitHub Repository](https://github.com/markparal/FantasyFootballDraft)
