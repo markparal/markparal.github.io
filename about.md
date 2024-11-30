@@ -10,6 +10,6 @@ permalink: /about/
 I am a masters student at Stanford studying Aeronautics and Astronautics focusing on control systems. If you want to connect, please reach out!
 
 
-### [markwparal@gmail.com](markwparal@gmail.com)
+### markwparal@gmail.com
 ### [LinkedIn](https://www.linkedin.com/in/mark-paral)
 ### [Google Scholar](https://scholar.google.com/citations?hl=en&user=uE5ubPYAAAAJ)
