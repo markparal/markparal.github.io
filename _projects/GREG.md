@@ -8,7 +8,7 @@ description: Building a ground effect vehicle in 36 hours
 ---
 <div style="text-align: center;">
     <figure>
-        <img src="{{ 'assets/images/greg/greg2.PNG' | relative_url }}" alt="greg2" style="width:80%; border-radius:10px;">
+        <img src="{{ 'assets/images/greg/greg2.png' | relative_url }}" alt="greg2" style="width:80%; border-radius:10px;">
     </figure>
 </div>
 
@@ -20,7 +20,7 @@ When flying near a ground surface (including water), the aerodynamic flow patter
 
 <div style="text-align: center;">
     <figure>
-        <img src="{{ 'assets/images/greg/ground_effect.PNG' | relative_url }}" alt="ground_effect" style="width:80%; border-radius:10px;">
+        <img src="{{ 'assets/images/greg/ground_effect.png' | relative_url }}" alt="ground_effect" style="width:80%; border-radius:10px;">
         <figcaption style="font-style: italic; margin-top: 10px;">Ground Effect Visualization from "What is GROUND EFFECT?"</figcaption>
     </figure>
 </div>
@@ -32,7 +32,7 @@ Another noteworthy effect is the reduction in the upwash and downwash, and there
 
 <div style="text-align: center;">
     <figure>
-        <img src="{{ 'assets/images/greg/ground_effect_naval_1.PNG' | relative_url }}" alt="naval1" style="width:80%; border-radius:10px;">
+        <img src="{{ 'assets/images/greg/ground_effect_naval_1.png' | relative_url }}" alt="naval1" style="width:80%; border-radius:10px;">
         <figcaption style="font-style: italic; margin-top: 10px;">Ground Effect Quantified from "Aerodynamics for Naval Aviators" Figure 6.9</figcaption>
     </figure>
 </div>
@@ -42,7 +42,7 @@ The figure above shows the benefits of the ground effect as a function of the he
 
 <div style="text-align: center;">
     <figure>
-        <img src="{{ 'assets/images/greg/ground_effect_naval_2.PNG' | relative_url }}" alt="naval2" style="width:80%; border-radius:10px;">
+        <img src="{{ 'assets/images/greg/ground_effect_naval_2.png' | relative_url }}" alt="naval2" style="width:80%; border-radius:10px;">
         <figcaption style="font-style: italic; margin-top: 10px;">Ground Effect Quantified from "Aerodynamics for Naval Aviators" Figure 6.9</figcaption>
     </figure>
 </div>
@@ -80,7 +80,7 @@ GEVs have a wide range of applications including cargo transit, military, and se
 
 <div style="text-align: center;">
     <figure>
-        <img src="{{ 'assets/images/greg/delta.PNG' | relative_url }}" alt="delta" style="width:80%; border-radius:10px;">
+        <img src="{{ 'assets/images/greg/delta.png' | relative_url }}" alt="delta" style="width:80%; border-radius:10px;">
         <figcaption style="font-style: italic; margin-top: 10px;">Patent for "Ground effects utilizing and transition aircraft"</figcaption>
     </figure>
 </div>
@@ -109,7 +109,7 @@ Useful Resources:
 
 <div style="text-align: center;">
     <figure>
-        <img src="{{ 'assets/images/greg/greg.PNG' | relative_url }}" alt="greg" style="width:80%; border-radius:10px;">
+        <img src="{{ 'assets/images/greg/greg.png' | relative_url }}" alt="greg" style="width:80%; border-radius:10px;">
     </figure>
 </div>
 
