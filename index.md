@@ -7,6 +7,6 @@ description: Aero/Astro Engineer
 
 Feel free to check out my projects and reach out if you want to connect!
 
-<img src="{{ 'assets/images/Liftoff_wide.jpg' | relative_url }}" alt="liftoff" style="width:100%; object-fit:cover; border-radius:10px;">
+<img src="{{ 'assets/images/Liftoff_wide.JPG' | relative_url }}" alt="liftoff" style="width:100%; object-fit:cover; border-radius:10px;">
 
 
