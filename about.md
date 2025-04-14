@@ -7,7 +7,7 @@ permalink: /about/
 <br>
 <img src="/assets/images/overlook.jpg" alt="Overlook Image" style="width:700px; height:450px; object-fit:cover; border-radius:10px;">
 
-I am a masters student at Stanford studying Aeronautics and Astronautics focusing on control systems. If you want to connect, please reach out!
+I am an aeronautical and astronautical engineer work on control systems for satellites. Previously, I obtained my bachelor's from Purdue and my Master's from Stanford. If you want to connect, please reach out!
 
 
 ### markwparal@gmail.com

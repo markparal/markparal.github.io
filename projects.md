@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-This is a list of the many personal and school related projects I've worked on over the past few years. Feel free to click the links to learn more about any of these!
+This is a list of the many projects, personal or otherwise, I've worked on over the past few years. Feel free to click the links to learn more about any of these!
 {% assign sorted_projects = site.projects | sort: "date" | reverse %}
 {% assign current_year = "" %}
 

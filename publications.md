@@ -52,3 +52,25 @@ _Purdue Space Podcast_
 ### [Episode 5: Avionics: Then and Now (Part 1)](https://open.spotify.com/episode/2eMAWWn5f9rpWx56BNUn4B?si=Jbh1JizcRdmX_a3OYYiyAg)
 **Mark Paral**
 _Purdue Space Podcast_
+
+<br>
+
+# Notes
+---
+
+## Analysis of Aerospace Structures Supplemental Materials
+### [Fundamentals of Solid Mechanics]({{ '/assets/publications/aa240_notes/Fundamentals_of_Solid_Mechanics.pdf' | relative_url }})
+**Mark Paral**
+_Self Published_
+
+### [Structural Diagrams]({{ '/assets/publications/aa240_notes/Structural_Diagrams.pdf' | relative_url }})
+**Mark Paral**
+_Self Published_
+
+### [Energy Methods]({{ '/assets/publications/aa240_notes/Energy_Methods.pdf' | relative_url }})
+**Mark Paral**
+_Self Published_
+
+### [Structural Failure]({{ '/assets/publications/aa240_notes/Structural_Failure.pdf' | relative_url }})
+**Mark Paral**
+_Self Published_
