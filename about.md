@@ -7,7 +7,7 @@ permalink: /about/
 <br>
 <img src="/assets/images/overlook.jpg" alt="Overlook Image" style="width:700px; height:450px; object-fit:cover; border-radius:10px;">
 
-I am an aeronautical and astronautical engineer working on controls systems for satellites. Previously, I obtained my bachelor's from Purdue and my Master's from Stanford. If you want to connect, please reach out!
+I am an aeronautical and astronautical engineer working on controls systems for satellites. Previously, I obtained my bachelor's from Purdue and my master's from Stanford. If you want to connect, please reach out!
 
 
 ### markwparal@gmail.com
