@@ -3,6 +3,7 @@ layout: default
 title: "Mars Ascent Vehicle"
 date: 2020-12-01
 description: Designing a new Mars ascent vehicle concept
+image: /assets/images/MAV/cross section pic.png
 ---
 # Meet the MAV
 ---

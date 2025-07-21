@@ -16,5 +16,4 @@ collections:
     output: true
     permalink: /projects/:title/
   publications:
-    output: true
-    permalink: /publications/:title/
+    output: false

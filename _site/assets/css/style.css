@@ -266,6 +266,36 @@ body { font-family: 'Helvetica Neue', Helvetica, Arial, serif; font-size: 1em; l
 
 /* Responsive design for theme toggle */
 @media (max-width: 768px) { .theme-toggle { top: 10px; right: 10px; width: 40px; height: 40px; font-size: 16px; } }
+/* Project and Publication Grid Styles */
+.project-grid, .publication-grid { display: grid; grid-template-columns: 80px 1fr; gap: 20px; align-items: start; margin-bottom: 30px; padding: 20px; border-radius: 8px; transition: all 0.3s ease; }
+
+.project-grid:hover, .publication-grid:hover { background-color: var(--link-hover-bg); transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); }
+
+.project-image, .publication-image { width: 80px; height: 80px; object-fit: cover; border-radius: 8px; border: 2px solid var(--border-color); background-color: var(--bg-secondary); }
+
+.project-content, .publication-content { display: flex; flex-direction: column; gap: 8px; }
+
+.project-title, .publication-title { margin: 0; font-size: 1.2em; font-weight: bold; }
+
+.project-title a, .publication-title a { color: var(--text-secondary); text-decoration: none; }
+
+.project-title a:hover, .publication-title a:hover { color: var(--link-color); }
+
+.project-description { margin: 0; color: var(--text-primary); line-height: 1.5; }
+
+.publication-authors { margin: 0; color: var(--text-primary); font-style: italic; font-size: 0.9em; }
+
+.publication-journal { margin: 0; color: var(--text-primary); font-size: 0.9em; }
+
+.year-header, .section-header { margin-top: 40px; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid var(--border-color); color: var(--text-secondary); }
+
+.section-header { font-size: 1.8em; font-weight: bold; margin-top: 50px; border-bottom: 3px solid var(--border-color); text-transform: uppercase; letter-spacing: 1px; }
+
+.year-header { font-size: 1.2em; margin-top: 30px; border-bottom: 1px solid var(--border-color); font-weight: normal; }
+
+@media (max-width: 768px) { .project-grid, .publication-grid { grid-template-columns: 60px 1fr; gap: 15px; padding: 15px; }
+  .project-image, .publication-image { width: 60px; height: 60px; }
+  .project-title, .publication-title { font-size: 1.1em; } }
 /* Mobile responsive styles */
 @media (max-width: 768px) { .navbar { justify-content: space-between; align-items: center; }
   .hamburger { display: flex; }

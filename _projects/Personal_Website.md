@@ -3,6 +3,7 @@ layout: default
 title: "Personal Website"
 date: 2024-11-25
 description: Building my own personal website using GitHub Pages
+image: "/assets/images/Circuit Rocket even.png"
 ---
 # My own personal website
 ---
