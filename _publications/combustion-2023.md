@@ -6,5 +6,5 @@ publisher: "13th U.S. National Combustion Meeting Organized by the Central State
 date: 2023-05-01
 image: "/assets/images/effect_of_porosity_films_son/effect_of_porosity_films_cover.png"
 type: "Academic Papers"
-link: "/assets/publications/The_Effect_of_Porosity_on_Flexoelectricity_in_Flouropolymer_Aluminum_Films.pdf"
+link: 
 --- 

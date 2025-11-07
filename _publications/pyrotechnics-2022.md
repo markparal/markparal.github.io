@@ -6,5 +6,5 @@ publisher: "45th International Pyrotechnics Society Seminar"
 date: 2022-07-01
 image: "/assets/images/piezo-energetic_son/piezo-energetic_cover.png"
 type: "Academic Papers"
-link: "/assets/publications/Piezo-Energetic_composite_film_fabrication_and_poling_process_for_pressure_sensor_applications.pdf"
+link: 
 --- 
